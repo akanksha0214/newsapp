@@ -1,0 +1,268 @@
+{
+
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+           "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Patricio Chile",
+            "title": "Gordon Moore, co-founder and former chairman of Intel, dies at 94 - ABC News",
+            "description": "Moore and Robert Noyce founded Intel in 1968.",
+            "url": "https://abcnews.go.com/Technology/gordon-moore-founder-former-chairman-intel-dies-94/story?id=98116161",
+            "urlToImage": "https://s.abcnews.com/images/Technology/Gordon-Moore-ap-gmh-230325_1679750663220_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-03-25T15:44:03Z",
+            "content": "Gordon Moore, the co-founder and former chairman of tech giant Intel, died Friday at the age of 94, the company and the Gordon and Betty Moore Foundation announced.\r\nA press release stated Moore died… [+2105 chars]"
+        },
+        {
+           "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Cortney Moore",
+            "title": "Historic presidential yacht that served five American presidents on display at Florida boat show - Fox News",
+            "description": "A 92-year-old yacht that has been used by five U.S. presidents is being displayed at the 41st annual Palm Beach International Boat Show in South Florida. Here's where you can find it.",
+            "url": "https://www.foxnews.com/lifestyle/historic-presidential-yacht-served-5-american-presidents-display-florida-boat-show",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/GettyImages-515015610-resized.jpg",
+            "publishedAt": "2023-03-25T15:30:00Z",
+            "content": "A 93-foot wooden yacht that has served five presidents of the United States is currently being exhibited in South Florida.\r\nHoney Fitz, the newly restored historic motor yacht, is on display in West … [+3558 chars]"
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Chris Pandolfo",
+            "title": "California bill would ban 'toxic' chemicals found in Skittles, PEZ, other popular candies - Fox Business",
+            "description": "A California bill would ban certain \"toxic\" chemicals commonly found in candies like Skittles, requiring confectioners to come up with new recipes for their sweets.",
+            "url": "https://www.foxbusiness.com/politics/california-bill-would-ban-toxic-chemicals-found-skittles-pez-other-popular-candies",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/skittles-package-taste-the-rainbow.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-25T15:14:21Z",
+            "content": "California lawmakers are considering a measure that would change the ingredients of many popular candies by banning certain \"toxic\" chemicals.\r\nSkittles, PEZ, and other favorite junk foods commonly f… [+5024 chars]"
+        },
+        {
+           "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Maureen Groppe and Michael Collins, USA TODAY",
+            "title": "SVB, Signature Bank collapse puts Joe Biden's leadership to the test - USA TODAY",
+            "description": "The White House says President Biden took “decisive and forceful actions” to keep bank failures from spreading but he's not out of the woods yet.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/03/24/svb-signature-bank-failures-test-bidens-leadership/11493003002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/13/USAT/2cea64c7-8ed3-4d0a-ab2a-4e004ab5f7b7-AFP_AFP_33B97KN.JPG?auto=webp&crop=6191,3483,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-03-25T14:11:05Z",
+            "content": "WASHINGTON – President Joe Biden knew earlier this month that he needed to project command and confidence as he prepared to deal with a brewing banking crisis that would rattle financial markets.\r\nHe… [+10195 chars]"
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Travis Schlepp",
+            "title": "Powerball winner buys second luxury home in Los Angeles area - KTLA Los Angeles",
+            "description": "Just days after closing on a mansion in the Hollywood Hills, the winner of the largest Powerball jackpot in history has purchased another luxury home to the tune of about $4 million. Earlier this month, Edwin Castro purchased the Hollywood Hills luxury comple…",
+            "url": "https://ktla.com/news/local-news/record-breaking-powerball-winner-double-dips-purchases-second-luxury-home-report/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/03/snapshot-11-5.jpg?w=1280",
+            "publishedAt": "2023-03-25T14:03:31Z",
+            "content": "<ul><li>As reported by Dirt.com, Powerball winner Edwin Castro purchased a 5-bed, 5-bath home located on the 2100 block of Midlothian Drive in Altadena, California. (KTLA)\r\n</li><li>As reported by Di… [+2527 chars]"
+        },
+        {
+           "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Telis Demos",
+            "title": "Welcome to the Superprime Banking Crisis - WSJ - The Wall Street Journal",
+            "description": "Rising rates have exposed the problem with building a strategy around serving wealthy clients",
+            "url": "https://www.wsj.com/articles/welcome-to-the-superprime-banking-crisis-9ab6b6d2",
+            "urlToImage": "https://images.wsj.net/im-750688/social",
+            "publishedAt": "2023-03-25T13:30:00Z",
+            "content": null
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jan-Patrick Barnert",
+            "title": "The Flight to Safety Is About the Next Recession, Not Banks - Yahoo Finance",
+            "description": "(Bloomberg) -- Fears of tightening financial conditions leading to a recession are driving traders to rethink their risk exposure and seek out safety in the ...",
+            "url": "https://finance.yahoo.com/news/traders-flight-safety-next-recession-130007678.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/guNvEKoBitrT5oC5EfjK8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Nzg-/https://media.zenfs.com/en/bloomberg_markets_842/1673c4995d742aad041666f482f90795",
+            "publishedAt": "2023-03-25T13:00:07Z",
+            "content": "(Bloomberg) -- Fears of tightening financial conditions leading to a recession are driving traders to rethink their risk exposure and seek out safety in the stock market.\r\nMost Read from Bloomberg\r\nI… [+2984 chars]"
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Joshua Posaner",
+            "title": "Brussels to Berlin: We'll find a way to save the car engine - POLITICO Europe",
+            "description": "The European Commission’s dealmaking with its biggest car country clears a green law roadblock.",
+            "url": "https://www.politico.eu/article/brussels-to-berlin-well-find-a-way-to-save-the-combustion-car-engine-emissions-synthetic-fuels/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/25/GettyImages-627808176-scaled.jpg",
+            "publishedAt": "2023-03-25T12:48:00Z",
+            "content": "Press play to listen to this article\r\nVoiced by artificial intelligence.\r\nOn the future of the internal combustion engine, Germany has gotten its own way, again.\r\nThe European Commission and Germanys… [+7886 chars]"
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "mlive.com"
+            },
+            "author": "Marie Weidmayer | mweidmay@mlive.com",
+            "title": "Proposed 20-mile high-voltage power line sparks outrage in Southwest Michigan - MLive.com",
+            "description": "A marijuana grow, big power lines and the small-town fight to defend property and scenery.",
+            "url": "https://www.mlive.com/news/kalamazoo/2023/03/proposed-20-mile-high-voltage-power-line-sparks-outrage-in-southwest-michigan.html",
+            "urlToImage": "https://www.mlive.com/resizer/TvS1q24cAq2o7rfbyraDLaF1DqE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CVQ5UH6MMFHULFKROJDD77BUUM.png",
+            "publishedAt": "2023-03-25T12:00:00Z",
+            "content": null
+        },
+        {
+           "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Hillel Italie",
+            "title": "Judge rules online archive's book service violated copyright - The Associated Press",
+            "description": "NEW YORK (AP) — A federal judge has sided with four publishers who sued an online archive over its unauthorized scanning of millions of copyrighted works and offering them for free to the public. Judge John G.",
+            "url": "https://apnews.com/article/books-and-literature-manhattan-john-g-koeltl-business-0674119646bd920492f87490e8d2027b",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
+            "publishedAt": "2023-03-25T11:49:22Z",
+            "content": "NEW YORK (AP) A federal judge has sided with four publishers who sued an online archive over its unauthorized scanning of millions of copyrighted works and offering them for free to the public. Judge… [+3018 chars]"
+        },
+        {
+           "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Tim Cook, Ryan McMorrow, Joe Leahy",
+            "title": "Tim Cook praises Apple's 'symbiotic' relationship with China - Financial Times",
+            "description": "Chief executive’s visit comes despite rising trade and geopolitical tensions between Beijing and US",
+            "url": "https://www.ft.com/content/e5bc3ec2-b522-48c8-880f-7e981c14c9aa",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4917f9d1-fd76-41c0-9371-ec322cd5fd64.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-03-25T11:19:16Z",
+            "content": "Tim Cook has praised Apples symbiotic relationship with China despite rising trade and geopolitical tensions between Beijing and the US, and the iPhone makers own moves to diversify from the country.… [+2839 chars]"
+        },
+        {
+           "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jordan Hart",
+            "title": "Carvana customer buys stolen Maserati for $70k - Business Insider",
+            "description": "An Army vet had to prove he had not stolen the car when police responded to the call from a luxury car dealership saying his used Maserati was actually stolen.",
+            "url": "https://www.businessinsider.com/carvana-accused-selling-stolen-maserati-70k-2023-3",
+            "urlToImage": "https://i.insider.com/641db5b1b7834100191b173c?width=1200&format=jpeg",
+            "publishedAt": "2023-03-25T10:33:00Z",
+            "content": "A North Carolina man said he spent nearly $70,000 on a car to give to his wife as a gift, only to find out later that the used Maserati was stolen. \r\nArmy veteran Jason Scott told WTVD that he'd purc… [+2815 chars]"
+        },
+        {
+           "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ryan Hogg",
+            "title": "Woman left her AirPods on plane, tracked them to worker's home: report - Business Insider",
+            "description": "Alisabeth Hayden left her headphones on the plane after landing in San Francisco and told CNN that a police detective helped her find them.",
+            "url": "https://www.businessinsider.com/woman-left-her-airpods-plane-tracked-them-workers-home-report-2023-3",
+            "urlToImage": "https://i.insider.com/625e8009d2039d0019ba4de1?width=1200&format=jpeg",
+            "publishedAt": "2023-03-25T10:15:00Z",
+            "content": "A woman tracked down her lost Apple AirPods to an airport worker's home two weeks after she first left them behind on a plane, a report said.\r\nAlisabeth Hayden told CNN she was flying with United Air… [+1803 chars]"
+        },
+        {
+           "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Hugo Miller",
+            "title": "Credit Suisse Wouldn't Have Lasted Another Day, Minister Says - Bloomberg",
+            "description": "The Swiss government was compelled to intervene to save Credit Suisse Group AG as the troubled bank wouldn’t have survived another day of trading amid a crisis of investor confidence, Finance Minister Karin Keller-Sutter said.",
+            "url": "https://www.bloomberg.com/news/articles/2023-03-25/credit-suisse-wouldn-t-have-lasted-another-day-minister-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAkSkjFlazx8/v1/1200x800.jpg",
+            "publishedAt": "2023-03-25T10:08:00Z",
+            "content": "The Swiss government was compelled to intervene to save \r\nCredit Suisse Group AG as the troubled bank wouldn’t have survived another day of trading amid a crisis of investor confidence, Finance Minis… [+263 chars]"
+        },
+        {
+           "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Max Zahn",
+            "title": "High interest rates hammer consumers seeking mortgage or car loans - ABC News",
+            "description": "Rate hikes have ballooned loan costs. Relief may be coming, experts say.",
+            "url": "https://abcnews.go.com/Business/high-interest-rates-hammer-consumers-seeking-mortgage-car/story?id=98101953",
+            "urlToImage": "https://s.abcnews.com/images/Business/home-sale-gty-jef-230324_1679690969048_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-03-25T10:03:31Z",
+            "content": "The banking crisis that erupted earlier this month elicited some predictions of a halt in interest rate hikes, since previous borrowing cost increases garnered blame for the financial distress.\r\nInst… [+4401 chars]"
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "Akron Beacon Journal"
+            },
+            "author": ", Akron Beacon Journal",
+            "title": "FirstEnergy electricity prices will nearly double in June. Shop around - Akron Beacon Journal",
+            "description": "The price of electricity for FirstEnergy customers who are on the default rate will nearly double in June. Here's why and what you should do.",
+            "url": "https://www.beaconjournal.com/story/news/2023/03/25/firstenergy-electricity-prices-will-nearly-double-in-june-shop-around-nopec-aggregation-energy-harbo/70045933007/",
+            "urlToImage": "https://www.gannett-cdn.com/media/2020/08/26/Akron/ghows-OH-200808958-7e754fd9.jpg?auto=webp&crop=1820,1024,x0,y94&format=pjpg&width=1200",
+            "publishedAt": "2023-03-25T10:00:16Z",
+            "content": "Customers who are buying electricity directly from FirstEnergy Corp. will see their rates nearly double starting in June, unless they choose a separate provider or are in a government bulk-buying gro… [+4709 chars]"
+        },
+        {
+           "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brian Sozzi",
+            "title": "5 things you may have missed during a pivotal week for the Fed and markets - Yahoo Finance",
+            "description": "So much for market calm.",
+            "url": "https://finance.yahoo.com/news/5-things-you-may-have-missed-during-a-pivotal-week-for-the-fed-and-markets-093000696.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dRDsOpQfqPKXr_iaE8xgPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/bcc93770-ca63-11ed-bafe-9179cf94ed41",
+            "publishedAt": "2023-03-25T09:30:00Z",
+            "content": "The Federal Reserve huffed and puffed, and yet the stock market didn't fall down even as fears of more bank failures remained top of mind with lawmakers and investors.\r\nThe Fed lifted the target rang… [+4684 chars]"
+        },
+        {
+           "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gwynn Guilford",
+            "title": "Work-From-Home Era Ends for Millions of Americans - The Wall Street Journal",
+            "description": "Share of businesses with workers on-site most of the time neared prepandemic levels in 2022, Labor Department finds",
+            "url": "https://www.wsj.com/articles/work-from-home-era-ends-for-millions-of-americans-8bb75367",
+            "urlToImage": "https://images.wsj.net/im-750406/social",
+            "publishedAt": "2023-03-25T09:30:00Z",
+            "content": null
+        },
+        {
+           "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "A Rivian buyer waited 3 years for his dream car. It died within days. - Business Insider",
+            "description": "Chase Merrill's honeymoon phase with his Rivian R1S didn't last long. Two days after it arrived, the electric SUV was bricked in the snow.",
+            "url": "https://www.businessinsider.com/rivian-buyer-car-died-in-snow-after-3-year-wait-2023-3",
+            "urlToImage": "https://i.insider.com/641dc86cb7834100191b1d50?width=1200&format=jpeg",
+            "publishedAt": "2023-03-25T08:15:00Z",
+            "content": "When Chase Merrill took his first ride in his new Rivian R1S, it was instantly his favorite car he had ever driven.\r\nMerrill, 24, put down a deposit on an R1S three years ago at the urging of family … [+6140 chars]"
+        },
+        {
+           "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Darius Rafieyan, Mattathias Schwartz",
+            "title": "I'm an SVB employee who lost more than $1 million. Here's the inside story of our struggle to survive. - Business Insider",
+            "description": "As Silicon Valley Bank collapsed, front-line employees struggled to reassure skittish clients, even as their own equity evaporated.",
+            "url": "https://www.businessinsider.com/svb-employee-anonymous-insider-silicon-valley-bank-failure-fdic-fed-2023-3",
+            "urlToImage": "https://i.insider.com/641e000d1012e900188edebe?width=1200&format=jpeg",
+            "publishedAt": "2023-03-25T07:05:00Z",
+            "content": "Over the last two weeks, Insider has conducted a series of interviews with an employee of Silicon Valley Bank who gave a firsthand account of the bank's March 10 implosion as experienced by rank-and-… [+7588 chars]"
+        }
+    ]
+
+}
