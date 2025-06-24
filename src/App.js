@@ -15,15 +15,6 @@ const apiKey = "97055e9f2f3f43d2a287e4f5b0a8b9b5";
 console.log(apiKey,"key");
 const [progress, setProgress] = useState(0)
 
-{/*state={
-  progress:0  
-}
-
-
-setProgress=(progress)=>{
-  this.setState({progress:progress});
-}*/}
-
     return (
       <div>
       <Router>
