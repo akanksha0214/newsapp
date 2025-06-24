@@ -21,7 +21,7 @@ const News=(props)=> {
     setLoading(true);
     let data = await fetch(url);
     let parsedData = await data.json();
-    setarticles(parsedData.articles)
+    setarticles(Array.isArray(parsedData.articles) ? parsedData.articles : []);
     setTotalResults(parsedData.totalResults)
     setLoading(false)
     setProgress(100);
@@ -53,7 +53,7 @@ const News=(props)=> {
       >
         <div className="container">
           <div className="row" >
-            {articles.map((elements) => {
+            {Array.isArray(articles) && articles.map((elements) => {
               return <div className="col-md-4" style={{ padding: '10px' }} key={elements.url}>
                 <NewsItem title={elements.title ? elements.title.slice(0, 45) : ""} description={elements.description ? elements.description.slice(0, 80) : ""}
                   imageUrl={elements.urlToImage} newUrl={elements.url} author={elements.author} date={elements.publishedAt} source={elements.source.name} />
