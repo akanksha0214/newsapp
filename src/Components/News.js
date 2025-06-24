@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const News=(props)=> {
-
+  const { category, apiKey, pageSize, setProgress } = props;
   const [articles, setarticles] = useState([])
   const [loading, setLoading] = useState(true)
   const [page, setPage] = useState(1)
@@ -16,25 +16,25 @@ const News=(props)=> {
   }
 
   const updateNews = useCallback(async () => {
-    props.setProgress(10);
-    const url = `https://newsapi.org/v2/top-headlines?country=us&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+    setProgress(10);
+    const url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${apiKey}&page=${page}&pageSize=${pageSize}`;
     setLoading(true);
     let data = await fetch(url);
     let parsedData = await data.json();
     setarticles(parsedData.articles)
     setTotalResults(parsedData.totalResults)
     setLoading(false)
-    props.setProgress(100);
-  }, [props.category, props.apiKey, props.pageSize, page, props.setProgress]);
+    setProgress(100);
+  }, [category, apiKey, pageSize, page, setProgress]);
 
   useEffect(() => {
-    document.title = `${capitalizeFirstLetter(props.category)} -NewsAlert`;
+    document.title = `${capitalizeFirstLetter(category)} -NewsAlert`;
     updateNews();
-  }, [props.category, updateNews]);
+  }, [category, updateNews]);
 
   const fetchMoreData = async () => {
     setPage(page+1)
-    const url = `https://newsapi.org/v2/top-headlines?country=us&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${apiKey}&page=${page+1}&pageSize=${pageSize}`;
     let data = await fetch(url);
     let parsedData = await data.json();
     setarticles(articles.concat(parsedData.articles))
@@ -43,7 +43,7 @@ const News=(props)=> {
 
   return (
     <>
-      <h2 className="text-center" style={{ margin: '40px 0px' , marginTop:'90px'}}>NewsAlert - Top {capitalizeFirstLetter(props.category)} headlines</h2>
+      <h2 className="text-center" style={{ margin: '40px 0px' , marginTop:'90px'}}>NewsAlert - Top {capitalizeFirstLetter(category)} headlines</h2>
       {loading && <Spinner/>}
       <InfiniteScroll
         dataLength={articles.length}
